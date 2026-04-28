@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIL60UVUJzQ=",
+  "success": true,
+  "projectFilePath": "/home/hal1001/Documentos/Estudos Blazor/todo-list/todo-list.csproj",
+  "expectedPackageFiles": [
+    "/home/hal1001/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.7/microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
